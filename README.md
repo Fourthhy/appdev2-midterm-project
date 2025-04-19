@@ -16,6 +16,8 @@ This project is created in completion to the course: Applications Development 2.
 <h2>Instructions</h2>
 <p> I advise you to follow these how-to steps in order to install, run, and test the application successfully.</p>
 
+<p>Or you can watch this video: https://drive.google.com/file/d/1xW3FkO64TCKJt8gNJpA03xcU5FxhGBF-/view?usp=sharing </p>
+
 <h3>How to install</h3><hr>
 <ul>
     <li>In your CMD, go to your desired file location and run this command: 
